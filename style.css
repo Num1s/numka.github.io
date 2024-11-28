@@ -9,14 +9,14 @@ body {
 
 .wrapper {
     width: 375px;
-    height: 765px;
+    height: 665px;
 }
 
 header {
     display: flex;
     justify-content: space-around;
     /* background-color: firebrick; */
-    margin-top: 67px;
+    margin-top: 25px;
     font-family: 'Afacad', sans-serif;
 }
 
@@ -65,8 +65,7 @@ header {
 
     .main_info button {
         cursor: pointer;
-        position: absolute;
-        margin-left: 135px;
+        position: relative;
         padding: 15px;
         color: white;
         font-family: 'Afacad', sans-serif;
@@ -79,14 +78,14 @@ header {
 
     .main_info img {
         border-radius: 15px;
-        margin-top: 20px;
+        margin-top: -20px;
     }
 
 footer {
-    margin-top: -20px;
+    margin-top: 10px;
     text-align: center;
     font-family: 'Afacad';
-    font-size: 11px;
+    font-size: 12px;
 }
 
 
