@@ -8,7 +8,6 @@ body {
 }
 
 .wrapper {
-    width: 375px;
     height: 665px;
 }
 
@@ -119,10 +118,4 @@ footer {
     font-family: 'Afacad', sans-serif;
     font-size: 13px;
     margin-top: 80px;
-}
-
-@media only screen and (max-width: 440px) {
-    .wrapper {
-        width: 440px;
-    }
 }
